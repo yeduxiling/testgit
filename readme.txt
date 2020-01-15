@@ -17,3 +17,6 @@
 
 def canghai():
     print(f"what a good sea!")
+
+if x > 0:
+    return False
