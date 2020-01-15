@@ -20,3 +20,5 @@ def canghai():
 
 if x > 0:
     return False
+
+for i in range(2,6)
